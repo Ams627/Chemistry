@@ -1,0 +1,47 @@
+:toc:
+:sectnums:
+:toclevels: 5
+:sectnumlevels: 5
+:showcomments:
+:xrefstyle: short
+:icons: font
+:source-highlighter: coderay
+:tick: &#x2714;
+:pound: &#xA3;
+
+= Chemistry Fun Part 1
+
+== Sodium Bicarbonate and Citric Acid or Acetic acid
+
+NaHCO~3~ + CH~3~COOH = CH~3~COONa + H~2~O + CO~2~ 
+
+Sodium bicarbonate + acetic acid = sodium acetate + water + carbon dioxide.
+Hydrogenuhlicitan sodný + kyselina octová = octan sodný + voda + oxid uhlicitý
+
+Carbonates (uhlicitany) always release CO~2~ when acids are added to them.
+
+Carbon dioxide should put out something burning - e.g. a candle or a small burning stick.
+
+== Sodium Hydroxide and Aluminium
+
+2Al + 2NaOH + 2H~2~O ? 2NaAlO~2~ + 3H~2~
+
+Aluminium + sodium hydroxide + water = sodium aluminate + hydrogen
+
+Hliník + hydroxid sodný + voda = hlinitan sodný + vodík
+
+Hydrogen is highly flammable and lighter than air. Can we fill a balloon and make it rise in air?
+
+== Hydrogen Peroxide - with Potassium Iodide
+
+2H2O~2~ => 2H~2~O + O~2~
+
+Peroxid vodíku => voda + kyslík 
+
+Jodid draselný = katalyzátor 
+
+Potassium iodide is a *catalyst* - it doesn't take part in the reaction and if you contain all the products
+you would be able to get your potassium iodide back.
+
+
+
